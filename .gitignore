@@ -1,0 +1,10 @@
+# environment
+.env
+
+#air
+tmp/
+
+# macOS
+*.DS_Store
+*.AppleDouble
+*.LSOverride
